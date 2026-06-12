@@ -1,0 +1,6 @@
+{
+  "name": "Axis Physiotherapy Admin Panel",
+  "description": "Secure record-keeping admin panel and dashboard for Axis Physiotherapy Pvt. Ltd. with database persistence and JWT authorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
